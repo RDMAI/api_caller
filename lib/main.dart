@@ -57,7 +57,7 @@ class _MainAppBodyState extends State<MainAppBody> {
             child: const Column(
               children: [
                 Flexible(child: ConnectionBuilderUi()),
-                Expanded(child: MethodsTabsView()),
+                Flexible(child: MethodsTabsView()),
               ],
             ),
           ),
