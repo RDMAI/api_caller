@@ -1,3 +1,3 @@
-# api_caller
+# Simple SignalR tester written in Flutter
 
-A new Flutter project.
+Simple SignalR tester written in Flutter.
